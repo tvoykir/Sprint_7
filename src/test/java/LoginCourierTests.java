@@ -8,8 +8,6 @@ import static org.hamcrest.Matchers.notNullValue;
 
 public class LoginCourierTests extends BaseCourierTests {
 
-    private String courierId;
-
     @Override
     @Before
     @DisplayName("Настройка тестовых условий")
